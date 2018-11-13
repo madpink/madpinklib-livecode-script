@@ -1,0 +1,1 @@
+# madpinklib-livecode-script
